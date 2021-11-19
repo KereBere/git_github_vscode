@@ -27,8 +27,31 @@ The Readme file has been edited on GitHub.
 * git config --global user.email 'email@email.com
 * git -rm cached fileName/folderName || untracks given file 
 * git merge branchName || merges branchName into current one
-<<<<<<< HEAD
-=======
 * git push -u origin gitMDList || pushes the gitMDList branch on remote as a new branch
 * git push --set-upstream origin gitMDList || when u tryto git push a new branch you must first create it like this in GitHub
->>>>>>> loginform
+
+
+
+
+*italic* **bold** ***bold-italic***
+
+[Google](https://google.com)
+
+----------------------------------
+
+![Resimler](https://picsum.photos/200/300)
+***
+
+```python
+print("Helo world!")
+```
+
+```javascript
+console.log("Hello World!");
+function helloWorld() {
+    console.log("Hello World!");
+}
+```
+
+[Typora is an online MD editor](https://typora.io/)
+You can import it as HTML/pdf/epub
