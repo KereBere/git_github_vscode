@@ -1,0 +1,15 @@
+#img define files u do not want to track 
+*.jpg
+*.png
+logo.jpg
+images/
+
+*.mp4
+
+#packages
+
+#log
+*.log
+
+
+password.txt
