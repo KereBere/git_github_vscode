@@ -27,3 +27,8 @@ The Readme file has been edited on GitHub.
 * git config --global user.email 'email@email.com
 * git -rm cached fileName/folderName || untracks given file 
 * git merge branchName || merges branchName into current one
+<<<<<<< HEAD
+=======
+* git push -u origin gitMDList || pushes the gitMDList branch on remote as a new branch
+* git push --set-upstream origin gitMDList || when u tryto git push a new branch you must first create it like this in GitHub
+>>>>>>> loginform
