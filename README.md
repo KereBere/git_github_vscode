@@ -18,3 +18,6 @@ git checkout branchName || toggling branches
 git push  || sends remote repo
 git pull || gets from remote repo 
 git clone url.git || clones from remote repo
+git branch -a || lists all branches
+git remote add arigin url.git || links local repo and remote repo
+git push -u origin main || pushes current branch to GitHub
